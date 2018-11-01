@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Fabilicious
+title: FabiliciousTester
 url: "https://spring-bat.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -17,7 +17,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Fabilicious
+  name: FabiliciousTester
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
@@ -59,7 +59,7 @@ defaults:
       layout: "default"
       push_sidebar_down: true
 
-baseurl: "/Fabilicious"
+baseurl: "/FabiliciousTester"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

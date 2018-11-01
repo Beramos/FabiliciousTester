@@ -19,7 +19,7 @@ categories:
   - vegetarisch
   - bijgerechten
   - hartigDivers
-featured_image: /Fabilicious/images/Rozemarijn-knoflookolie 1200SM.jpg
+featured_image: /FabiliciousTester/images/Rozemarijn-knoflookolie 1200SM.jpg
 recipe:
   servings: 1 zalige template
   ingredients_markdown: |-
@@ -77,7 +77,7 @@ een [link](https://bramdejaegher.be)
 
 **Een enkele afbeelding:**
 
-![Hier komt een tekst wanneer de afbeelding om een bepaalde reden niet geladen kan worden](/Fabilicious/images/Canele1 1200.jpg)
+![Hier komt een tekst wanneer de afbeelding om een bepaalde reden niet geladen kan worden](/FabiliciousTester/images/Canele1 1200.jpg)
 
 is eigenlijk een link met uitroepingsteken.
 
@@ -85,32 +85,32 @@ is eigenlijk een link met uitroepingsteken.
 
 Twee cannellee's is beter dan één...
 <div class="double_image">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
 </div>
 
 Maar drie is nog zoveel beter...
 <div class="triple_image">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
 </div>
 
 Nog een extraatje:
 <div class="triple_special_image">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
 </div>
 
 Combinaties zijn ook mogelijk:
 <div class="double_image">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
 </div>
 <div class="double_image">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
-  <img src="/Fabilicious/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
+  <img src="/FabiliciousTester/images/Canele1 1200.jpg">
 </div>
 
 Het is een goed idee om dezelfde grootte en resolutie te nemen voor beide afbeeldingen.

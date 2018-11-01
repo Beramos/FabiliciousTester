@@ -3,7 +3,7 @@ date: 2018-10-14
 title: Cannellé
 categories:
   - koekjesEnKleinGebak
-featured_image: /Fabilicious/images/Canele1 1200.jpg
+featured_image: /FabiliciousTester/images/Canele1 1200.jpg
 recipe:
   servings: 2 suikerbroodjes
   ingredients_markdown: |-

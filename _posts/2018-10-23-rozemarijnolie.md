@@ -3,7 +3,7 @@ date: 2018-10-23
 title: Rozemarijn-knoflookolie
 categories:
   - bijgerechten
-featured_image: /Fabilicious/images/Rozemarijn-knoflookolie 1200SM.jpg
+featured_image: /FabiliciousTester/images/Rozemarijn-knoflookolie 1200SM.jpg
 recipe:
   servings:
   ingredients_markdown: |-
