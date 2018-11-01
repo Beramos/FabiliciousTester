@@ -2,7 +2,23 @@
 date: 2018-12-20
 title: Template met rozijntjes
 categories:
+  - taarten
+  - cake
+  - koekjesEnKleinGebak
   - broodEnOntbijtgranen
+  - ijsEnSorbets
+  - dessert
+  - confituurEnChocopasta
+  - zoetDivers
+  - aperitiefhapjes
+  - hartigeTaarten
+  - soep
+  - hoofdgerechten
+  - pasta
+  - salades
+  - vegetarisch
+  - bijgerechten
+  - hartigDivers
 featured_image: /Fabilicious/images/Granola met dadelpasta 1200.jpg
 recipe:
   servings:
