@@ -91,6 +91,34 @@
 			}
 		}
 	}
+
+	.double_image{
+		max-width: 100%;
+
+		img{
+			width: 49%;
+		}
+	}
+	
+	.triple_image{
+		max-width: 100%;
+
+		img{
+			width: 32%;
+		}
+	}
+	
+	.triple_special_image{
+		max-width: 100%;
+
+		img{
+			width: 48%;
+		}
+
+		img:last-of-type{
+			padding-left:25%;
+		}
+	}
 }
 
 .post + .post {
